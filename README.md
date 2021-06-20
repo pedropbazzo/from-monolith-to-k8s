@@ -28,7 +28,7 @@ This section covers:
 
 ## Prerequisites
 
-- Kubernetes Cluster
+- Kubernetes Cluster 
   - Tested in GKE Cluster (3 nodes - n1-standard-2)
   - Do you want to test in a different cloud provider and add it to the list? Help is appreciated, please report issues if you found them while trying to run the workshop in other Cloud Providers. 
 - `kubectl` configured to work against the cluster. 
@@ -36,6 +36,8 @@ This section covers:
 
 ## Tools
 We are using the following projects/tools during this workshop:
+
+//////// READ
 
 - [Kubernetes](http://kubernetes.io)
 - [Jenkins X](https://jenkins-x.io)
